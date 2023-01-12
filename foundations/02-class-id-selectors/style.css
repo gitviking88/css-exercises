@@ -1,0 +1,8 @@
+.pinkbackground {
+   background-color: pink;
+}
+#number2 {color: blue; font-size: 28px;}
+#number3 {font-size: 24px;}
+#greenbackground {background-color: rgb(100, 199, 100); font-weight: bold;}
+body {background-color: black;}
+section {background-color: white; width: 500px; position: absolute; }
