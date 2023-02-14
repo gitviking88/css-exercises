@@ -9,7 +9,8 @@ body, html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template: 100px 100px 400px 100px / 100px 500px
+  grid-template: 100px 100px 500px 100px / 200px 600px;
+  gap: 15px;
 }
 
 .container div {
@@ -42,7 +43,7 @@ body, html {
 }
 
 .article p {
-  font-size: 18px;
+  font-size: 15px;
   font-family: sans-serif;
   color: white;
   text-align: left;
